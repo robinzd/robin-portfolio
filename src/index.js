@@ -1,6 +1,5 @@
 import  ReactDOM  from "react-dom";
 import App from './app';
-import './index.css'
-import Header from './components/header/Header'
+import 'index.css'
 
-ReactDOM.render(<Header />,document.querySelector("#root"))
+ReactDOM.render(<App/>,document.querySelector("#root"))
