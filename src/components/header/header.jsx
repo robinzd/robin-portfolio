@@ -11,10 +11,3 @@ class Header extends Component {
  
 export default Header;
 
-// const Header = () => {
-//   return (
-//     <div>Headers</div>
-//   )
-// }
-
-// export default Header
